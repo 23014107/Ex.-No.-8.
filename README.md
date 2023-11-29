@@ -1,6 +1,5 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
-### DATE: 
+ 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -11,12 +10,31 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
+Step 1:- Check all Electrical connections.
+
+Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea
+maker first open the software and click the open file option as shown in below figure.
 
 ![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/cc85691e-728c-4cdf-91b8-3d9b5de6d107)
+
 ![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/13ac0c5d-eb4f-4608-ae4a-690c70efec8f)
+Step 3:- select the Pan option and select the extruder (left of right) for printing the design and
+then after select the Repair option for auto correction of design of software parameter as shown
+in below figure
+
 ![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/b8e47703-56b8-40f2-9de0-30e49abca51c)
+Step 4.:- select the Move option for design print position in build tack plate and then after select
+the Rotate option for rotate the design easily printed and used low print material as shown in
+below figure
+
 ![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/f8fd5aa0-c49b-474e-8cf6-4c1d929a9109)
+Step 5.:- select the Scale option for design scale according to build plate area and then
+after click the start option and select printing option standard as shown in below figure.
+
 ![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/e0d45ea3-c0cd-4e3b-9623-bb0a0ff63442)
+Step 6.:- After completing all settings then click the Slice option and export the file in gcode
+format.
+
 ![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/9a3db585-1342-4106-831a-c2801793b7d9)
 
 
