@@ -12,12 +12,12 @@
 
 ## PROCEDURE:
 
-![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/e4331640-0c49-414c-83db-676c449ada74)
-![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/75a762d1-b613-4f97-825d-899c6c9aeeb0)
-![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/397b8afb-325b-49e4-98cc-df39d827f9b8)
-![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/44fd06af-1524-4a69-ba5c-17813ce61c1a)
-![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/e9a52e39-935c-4a48-96ad-b96a8f418f98)
-![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/5eb91cf2-9d71-4c42-a660-072bf809c52f)
+![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/cc85691e-728c-4cdf-91b8-3d9b5de6d107)
+![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/13ac0c5d-eb4f-4608-ae4a-690c70efec8f)
+![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/b8e47703-56b8-40f2-9de0-30e49abca51c)
+![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/f8fd5aa0-c49b-474e-8cf6-4c1d929a9109)
+![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/e0d45ea3-c0cd-4e3b-9623-bb0a0ff63442)
+![image](https://github.com/23014107/Ex.-No.-8./assets/151625620/9a3db585-1342-4106-831a-c2801793b7d9)
 
 
 
